@@ -1,0 +1,4 @@
+{
+  "extends": "@brunogon/ts-config/base.json",
+  "include": ["src"]
+}

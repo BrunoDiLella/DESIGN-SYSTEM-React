@@ -1,7 +1,7 @@
 {
   "name": "@brunogon/eslint-config",
   "license": "MIT",
-  "privete": "true",
+  "privete": true,
   "main": "index.js",
   "devDependencies": {
     "@rocketseat/eslint-config": "^1.1.3",
